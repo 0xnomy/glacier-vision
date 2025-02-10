@@ -10,7 +10,10 @@
 
 #### **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, Pakistan**
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Paper-white.svg)]([YOUR_RESEARCHGATE_LINK](https://www.researchgate.net/publication/388129756_Advanced_Deep_Learning_Driven_Geospatial_Analysis_for_GLOF_Risk_Reduction_A_Case_Study_from_Pakistan's_Northern_Mountain_Ranges)) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-green.svg)]([YOUR_GOOGLE_SCHOLAR_LINK](https://scholar.google.com/citations?user=6w77LCsAAAAJ&hl=en)) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue.svg)]([YOUR_KAGGLE_LINK](https://www.kaggle.com/naumanalimurad))
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Paper-white.svg)](https://www.researchgate.net/publication/388129756_Advanced_Deep_Learning_Driven_Geospatial_Analysis_for_GLOF_Risk_Reduction_A_Case_Study_from_Pakistan's_Northern_Mountain_Ranges) 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-green.svg)](https://scholar.google.com/citations?user=6w77LCsAAAAJ&hl=en) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue.svg)](https://www.kaggle.com/naumanalimurad)
+
 
 
 
