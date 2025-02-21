@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any questions or collaborations, please contact: 
-```~ = @```
-- Nauman Ali Murad: u2022479 ~ giki.edu.pk
-- Abinta Mehmood Mir: abinta.mehmood ~ giki.edu.pk
-- Nazia Shahzadi: nazia.shahzadi ~ giki.edu.pk
+
+- Nauman Ali Murad: u2022479 [AT] giki.edu.pk
+- Abinta Mehmood Mir: abinta [DOT] mehmood [AT] giki.edu.pk
+- Nazia Shahzadi: nazia [DOT] shahzadi [AT] giki.edu.pk
